@@ -28,8 +28,12 @@ I enjoy transforming raw data into trusted datasets, actionable business insight
 
 **2. Retail Sales & Profitability Analysis**
 
-- Analyze revenue, profit margins, product performance, and regional sales trends.
-- Tools: SQL, Python, Excel, Power BI.
+Tech Stack: SQL | Python | Excel | Power BI
+
+- Analyzed sales revenue, profit margins, product performance, and regional trends.
+- Used SQL and Python to clean and analyze data.
+- Developed KPI reports to support business decision-making.
+- Repository: https://github.com/paragpujari/Retail-Sales-and-Profitability-Analysis
 
 **3. Azure Data Engineering Pipeline**
 
