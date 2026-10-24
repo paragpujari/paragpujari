@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi , I have opened linkedln what to do nect
 
-<!--
-**paragpujari/paragpujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Parag Pujari 👋
 
-Here are some ideas to get you started:
+## Data Engineer | SQL | Python | PySpark | Azure | Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a data professional with 5 years of experience in data engineering and analytics, specializing in building ETL pipelines, developing SQL solutions, processing large datasets, and delivering reliable data solutions.
+
+I enjoy transforming raw data into trusted datasets, actionable business insights, and scalable data pipelines.
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Engineering:** ETL/ELT, Apache Spark, PySpark, Data Pipelines
+- **Microsoft Azure:** Azure Data Factory, ADLS Gen2, Azure Databricks, Azure Synapse Analytics
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis, KPI Reporting
+- **Business Intelligence:** Power BI, DAX, Data Modeling
+- **Databases:** SQL-based data modeling, query optimization, relational databases
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+### 🚀 Featured Projects
+
+**1. Customer Support & SLA Performance Dashboard**
+
+- Analyze support tickets, resolution times, SLA compliance, backlog, and team performance.
+- Tools: SQL, Power BI, data modeling.
+- Deliverables: KPI queries, dashboard, data dictionary, and business insights.
+
+**2. Retail Sales & Profitability Analysis**
+
+- Analyze revenue, profit margins, product performance, and regional sales trends.
+- Tools: SQL, Python, Excel, Power BI.
+
+**3. Azure Data Engineering Pipeline**
+
+- Build an end-to-end data ingestion, transformation, and analytics pipeline.
+- Tools: Azure Data Factory, ADLS Gen2, Databricks, PySpark, SQL.
+
+### 🎯 What I'm Focused On
+
+- Building production-oriented data pipelines
+- Writing efficient and maintainable SQL
+- Developing interactive business intelligence dashboards
+- Improving data quality, performance, and reliability
+- Building practical, well-documented portfolio projects
+
+### 🤝 Let's Connect
+
+- GitHub: [https://github.com/paragpujari](https://github.com/paragpujari)
+- LinkedIn: [[Add your LinkedIn profile URL]](https://www.linkedin.com/in/parag-pujari/)
+- Email: [[Add your professional email]](paragpujari95@gmail.com)
+
+I believe in learning by building practical projects and solving real-world data problems.
