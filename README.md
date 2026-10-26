@@ -25,7 +25,8 @@ I enjoy transforming raw data into trusted datasets, actionable business insight
 - Analyze support tickets, resolution times, SLA compliance, backlog, and team performance.
 - Tools: SQL, Power BI, data modeling.
 - Deliverables: KPI queries, dashboard, data dictionary, and business insights.
-
+- Repository: https://github.com/paragpujari/Customer-Support-SLA-Performance-Dashboard
+  
 **2. Retail Sales & Profitability Analysis**
 
 Tech Stack: SQL | Python | Excel | Power BI
