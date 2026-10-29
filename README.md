@@ -1,5 +1,3 @@
-Hi , I have opened linkedln what to do nect
-
 # Hi, I'm Parag Pujari 👋
 
 ## Data Engineer | SQL | Python | PySpark | Azure | Analytics
