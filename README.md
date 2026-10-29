@@ -47,15 +47,10 @@ Tech Stack: SQL | Python | Excel | Power BI
 Tech Stack: Python | Scikit-learn | Pandas | Streamlit | Docker | Joblib
 
 -  Built an end-to-end machine learning pipeline to predict customer churn using the Telco Customer Churn dataset.
--  
 -  Performed data cleaning, feature preprocessing (scaling + one-hot encoding), and handled class imbalance.
--  
 -  Trained and compared multiple models (Logistic Regression, Random Forest, Gradient Boosting) and selected the best model based on F1-score and Recall.
--  
 -  Developed an interactive Streamlit web application for real-time churn probability prediction with business recommendations.
--  
 -  Containerized the entire application using Docker for easy deployment.
-
 -  Repository: https://github.com/paragpujari/customer-churn-ml-portfolio-project
 
 ### 🎯 What I'm Focused On
