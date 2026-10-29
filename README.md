@@ -64,7 +64,7 @@ Tech Stack: Python | Scikit-learn | Pandas | Streamlit | Docker | Joblib
 ### 🤝 Let's Connect
 
 - GitHub: [https://github.com/paragpujari](https://github.com/paragpujari)
-- LinkedIn: [[Add your LinkedIn profile URL]](https://www.linkedin.com/in/parag-pujari/)
-- Email: [[Add your professional email]](paragpujari95@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/parag-pujari/](https://www.linkedin.com/in/parag-pujari/)
+- Email: [paragpujari95@gmail.com](paragpujari95@gmail.com)
 
 I believe in learning by building practical projects and solving real-world data problems.
