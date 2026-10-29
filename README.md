@@ -2,7 +2,7 @@
 
 ## Data Engineer | SQL | Python | PySpark | Azure | Analytics
 
-I am a data professional with 5 years of experience in data engineering and analytics, specializing in building ETL pipelines, developing SQL solutions, processing large datasets, and delivering reliable data solutions.
+I am a data professional specializing in data engineering and analytics, with hands-on experience building ETL pipelines, developing SQL solutions, processing large datasets, and delivering reliable data solutions through professional projects and portfolio work.
 
 I enjoy transforming raw data into trusted datasets, actionable business insights, and scalable data pipelines.
 
@@ -20,10 +20,11 @@ I enjoy transforming raw data into trusted datasets, actionable business insight
 
 **1. Customer Support & SLA Performance Dashboard**
 
-- Analyze support tickets, resolution times, SLA compliance, backlog, and team performance.
-- Tools: SQL, Power BI, data modeling.
-- Deliverables: KPI queries, dashboard, data dictionary, and business insights.
-- Repository: https://github.com/paragpujari/Customer-Support-SLA-Performance-Dashboard
+Tech Stack: SQL | Power BI | Data Modeling
+
+-  Designed a star-schema data model and KPI queries to analyze support tickets, resolution times, SLA compliance, backlog, and team performance.
+-  Delivered actionable business insights, a data dictionary, and a complete Power BI dashboard implementation guide.
+-  Repository: https://github.com/paragpujari/Customer-Support-SLA-Performance-Dashboard
   
 **2. Retail Sales & Profitability Analysis**
 
@@ -36,8 +37,10 @@ Tech Stack: SQL | Python | Excel | Power BI
 
 **3. Azure Data Engineering Pipeline**
 
-- Build an end-to-end data ingestion, transformation, and analytics pipeline.
-- Tools: Azure Data Factory, ADLS Gen2, Databricks, PySpark, SQL.
+Tech Stack: Azure Data Factory | ADLS Gen2 | Azure Databricks | PySpark | SQL | Delta Lake
+
+- Built an end-to-end batch data pipeline demonstration covering ingestion, Bronze–Silver–Gold transformations, data-quality checks, and analytics-ready tables using a synthetic retail sales dataset.
+- Included local PySpark logic, Databricks notebooks, SQL analytics, and starter ADF pipeline templates for portfolio and interview discussion.
 - Repository: https://github.com/paragpujari/Azure-Data-Engineering-Pipeline
 
 **4. Customer Churn Prediction**
@@ -63,6 +66,6 @@ Tech Stack: Python | Scikit-learn | Pandas | Streamlit | Docker | Joblib
 
 - GitHub: [https://github.com/paragpujari](https://github.com/paragpujari)
 - LinkedIn: [https://www.linkedin.com/in/parag-pujari/](https://www.linkedin.com/in/parag-pujari/)
-- Email: [paragpujari95@gmail.com](paragpujari95@gmail.com)
+- Email: [paragpujari95@gmail.com](mailto:paragpujari95@gmail.com)
 
 I believe in learning by building practical projects and solving real-world data problems.
