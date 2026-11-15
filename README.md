@@ -54,6 +54,16 @@ Tech Stack: Python | Scikit-learn | Pandas | Streamlit | Docker | Joblib
 -  Containerized the entire application using Docker for easy deployment.
 -  Repository: https://github.com/paragpujari/customer-churn-ml-portfolio-project
 
+  **5. Python and SQL ETL Automation**
+
+Tech Stack: Python| SQL| File Processing| Database Integration
+
+- Developed Python-based ETL workflows to process 50K+ records per execution.
+- Automated data cleansing, validation, transformation and loading processes.
+- Reduced manual processing effort by approximately 40%.
+- Optimized SQL queries, joins and aggregations to reduce execution time by approximately 25%.
+- Repository: [https://github.com/paragpujari/Azure-Data-Engineering-Pipeline](https://github.com/paragpujari/pyspark-delta-lake-etl)
+
 ### 🎯 What I'm Focused On
 
 - Building production-oriented data pipelines
