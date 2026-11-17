@@ -64,6 +64,17 @@ Tech Stack: Python| SQL| File Processing| Database Integration
 - Optimized SQL queries, joins and aggregations to reduce execution time by approximately 25%.
 - Repository: [https://github.com/paragpujari/Azure-Data-Engineering-Pipeline](https://github.com/paragpujari/pyspark-delta-lake-etl)
 
+  **6. PySpark ETL Pipeline – Bronze, Silver & Gold Architecture**
+
+Tech Stack: Python | PySpark | SQL | Delta Lake | Databricks | ETL | Data Quality
+
+- Developed an end-to-end PySpark ETL pipeline implementing Bronze, Silver and Gold architecture using Delta Lake.
+- Automated data cleansing, validation, deduplication and transformation across multiple datasets.
+- Implemented joins, aggregations and partitioning to build analytics-ready Gold tables.
+- Applied Delta Lake optimization techniques, including OPTIMIZE and ZORDER, to improve data processing efficiency.
+- Repository: https://github.com/paragpujari/Pyspark_ETL_Bronze_Silver_Gold
+
+Repository: 
 ### 🎯 What I'm Focused On
 
 - Building production-oriented data pipelines
